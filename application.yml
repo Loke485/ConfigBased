@@ -1,5 +1,6 @@
-server :
-   port : 8085
+server:
+  port: 8085
 
-Application :
-  name : ConfigServer
+spring:
+  application:
+    name: ConfigServer
